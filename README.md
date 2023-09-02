@@ -48,6 +48,6 @@
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=terius-yun&theme=shadow-blue&hide_border=true&mode=weekly&card_width=500)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terius-yun&layout=compact) [![GitHub Streak](https://streak-stats.demolab.com?user=terius-yun&theme=shadow-blue&hide_border=true&mode=weekly&card_width=500)](https://git.io/streak-stats)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:85DCFF,100:5146FF&height=150&section=footer)
