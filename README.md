@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:85DCFF,100:5146FF&height=400&section=header&text=Done%20is%20better%20then%20perfect!&fontSize=40)
 <h3>Regardless, I'm Terry, a developer who "completes".</h3>
 <h3> 그럼에도 불구하고 "완성"하는 개발자 윤태성 입니다.</h3>
-###  [About my career and details](https://www.linkedin.com/in/%ED%83%9C%EC%84%B1-%EC%9C%A4-265029237/)
+<a href="https://www.linkedin.com/in/%ED%83%9C%EC%84%B1-%EC%9C%A4-265029237">About my career and details</a>
 
 
 <br>
